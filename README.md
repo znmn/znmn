@@ -8,7 +8,7 @@
 
 <p>
 
-I'm **`Zainul Muhaimin`**, a passionate student majoring in information technology from Indonesia. With a strong background in Backend development and testing, I strive to create robust and efficient software solutions. I enjoy reading and watching movies during my free time, as they provide me with inspiration and fresh perspectives. Feel free to explore my projects and repositories to get a glimpse of my work.
+I'm **`Zainul Muhaimin`**, a passionate student majoring in Information Technology from Indonesia. With a strong background in Backend development and testing, I strive to create robust and efficient software solutions. I enjoy reading and watching movies during my free time, as they provide me with inspiration and fresh perspectives. Feel free to explore my projects and repositories to get a glimpse of my work.
 
 - 🎓 I am a **student**.
 - 💻 Major is **Information Technology**.
