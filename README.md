@@ -14,7 +14,7 @@ I'm **`Zainul Muhaimin`**, a passionate student majoring in Information Technolo
 - 💻 Major is **Information Technology**.
 - 🌱 I'm currently learning **Data Science and UX Research**.
 - 📝 I'm experienced in **Backend Programming**
-- 💬 If you have any questions, <a href="mailto:zainm.work@gmail.com">**just ask me**</a>.
+- 💬 If you have any questions, <a href="mailto:zainulm.work@gmail.com">**just ask me**</a>.
 
 </p>
 <!--Intro End-->
