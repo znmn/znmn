@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hello, i'm Zain <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/znmn"><img src="https://readme-typing-svg.herokuapp.com/?lines=Back-end+Developer;Tester;4%2B+years+of+coding+experience;Always+learning+new+tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/znmn"><img src="https://readme-typing-svg.herokuapp.com/?lines=Back-end+Developer;4%2B+years+of+coding+experience;Always+learning+new+tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
 <!--Intro start-->
