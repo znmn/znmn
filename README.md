@@ -8,11 +8,11 @@
 
 <p>
 
-I'm **`Zainul Muhaimin`**, a passionate student majoring in Information Technology from Indonesia. With a strong background in Backend development and testing, I strive to create robust and efficient software solutions. I enjoy reading and watching movies during my free time, as they provide me with inspiration and fresh perspectives. Feel free to explore my projects and repositories to get a glimpse of my work.
+I'm **`Zainul Muhaimin`**, a passionate student majoring in Information Technology from Indonesia. With a strong background in Backend development, I strive to create robust and efficient software solutions. I enjoy reading and watching movies during my free time, as they provide me with inspiration and fresh perspectives. Feel free to explore my projects and repositories to get a glimpse of my work.
 
 - 🎓 I am a **student**.
 - 💻 Major is **Information Technology**.
-- 🌱 I'm currently learning **Data Science and UX Research**.
+- 🌱 I'm currently learning **Data Science and Machine Learning**.
 - 📝 I'm experienced in **Backend Programming**
 - 💬 If you have any questions, <a href="mailto:zainulm.work@gmail.com">**just ask me**</a>.
 
@@ -36,23 +36,23 @@ I'm **`Zainul Muhaimin`**, a passionate student majoring in Information Technolo
 -->
 
 <!--- stats & Trophy (start) -->
-<h2>📊 Github Stats and Trophy</h2>
+<h2>📊 Github Trophy</h2>
 
 <p align="center">
 <!--- stats (start) -->
-<table align="center">
+<!-- <table align="center">
 <tr border="none">
 <td width="50%" align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=znmn&theme=dark&show_icons=true&count_private=true" />
   <br></br>
   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=znmn&theme=dark&hide_border=false" /> 
-</td>
+</td> -->
 
-<td width="50%" align="center">
+<!-- <td width="50%" align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=znmn&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10&hide=css"/>
 </td>
 </tr>
-</table>
+</table> -->
 <!--- stats (end) -->
 
 <!--- trophy (start) -->
