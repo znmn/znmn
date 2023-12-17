@@ -11,10 +11,10 @@
 I'm **`Zainul Muhaimin`**, a passionate student majoring in Information Technology from Indonesia. With a strong background in Backend development, I strive to create robust and efficient software solutions. I enjoy reading and watching movies during my free time, as they provide me with inspiration and fresh perspectives. Feel free to explore my projects and repositories to see my work.
 
 - 🎓 I am a **student**.
-- 💻 Major is **Information Technology**.
-- 🌱 I'm currently learning **Data Science and Machine Learning**.
-- 📝 I'm experienced in **Backend Programming**
-- 💬 If you have any questions, <a href="mailto:zainulm.work@gmail.com">**just ask me**</a>.
+- 💻 Major in **Information Technology**.
+- 🌱 I'm currently learning **Data Science** and **Machine Learning**.
+- 📝 I'm experienced in **Backend Programming** and **Automation Testing**
+- 💬 If you have any questions, <a href="mailto:zainulm.work@gmail.com">**feel free to ask me**</a>.
 
 </p>
 <!--Intro End-->
