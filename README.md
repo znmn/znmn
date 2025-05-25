@@ -58,7 +58,11 @@ I'm **`Zainul Muhaimin`**, a passionate student majoring in Information Technolo
 <!--- trophy (start) -->
 <div align=center>
     <a href="https://github.com/znmn" title="Zainul Muhaimin">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=znmn&theme=radical&row=1&margin-h=15&margin-w=5&hide=issues" alt="TROPHY" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=znmn&theme=radical&row=1&margin-h=15&margin-w=5&hide=issues" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=znmn&theme=flat&row=1&margin-h=15&margin-w=5&hide=issues" />
+        <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=znmn&theme=radical&row=1&margin-h=15&margin-w=5&hide=issues" alt="TROPHY" />
+      </picture>
     </a>
 </div>
 <!--- trophy (end) -->
