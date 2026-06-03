@@ -18,29 +18,30 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Prepare assets directory
+        run: mkdir -p assets
+
       - name: Generate trophy dark
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: ${{ github.repository_owner }}
-          output_path: assets/trophy-dark.svg
+          file: assets/trophy-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           theme: radical
           max-rows: 1
-          margin-h: 15
-          margin-w: 5
-          title: -Issues
+          margin-height: 15
+          margin-width: 5
 
       - name: Generate trophy light
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: ${{ github.repository_owner }}
-          output_path: assets/trophy-light.svg
+          file: assets/trophy-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           theme: flat
           max-rows: 1
-          margin-h: 15
-          margin-w: 5
-          title: -Issues
+          margin-height: 15
+          margin-width: 5
 
       - name: Generate snake dark and light
         uses: Platane/snk/svg-only@v3
