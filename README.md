@@ -35,40 +35,32 @@ I'm **`Zainul Muhaimin`**, a passionate student majoring in Information Technolo
 </p>
 -->
 
-<!--- stats & Trophy (start) -->
+<!--- profile assets (start) -->
 <h2>📊 Github Trophy</h2>
 
 <p align="center">
-<!--- stats (start) -->
-<!-- <table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=znmn&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=znmn&theme=dark&hide_border=false" /> 
-</td> -->
+  <a href="https://github.com/znmn" title="Zainul Muhaimin">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/znmn/znmn/main/assets/trophy-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/znmn/znmn/main/assets/trophy-light.svg" />
+      <img align="center" width="84%" src="https://raw.githubusercontent.com/znmn/znmn/main/assets/trophy-dark.svg" alt="TROPHY" />
+    </picture>
+  </a>
+</p>
 
-<!-- <td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=znmn&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10&hide=css"/>
-</td>
-</tr>
-</table> -->
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-<div align=center>
-    <a href="https://github.com/znmn" title="Zainul Muhaimin">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=znmn&theme=radical&row=1&margin-h=15&margin-w=5&hide=issues" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=znmn&theme=flat&row=1&margin-h=15&margin-w=5&hide=issues" />
-        <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=znmn&theme=radical&row=1&margin-h=15&margin-w=5&hide=issues" alt="TROPHY" />
-      </picture>
-    </a>
-</div>
-<!--- trophy (end) -->
-</p>        
-<!--- stats & Trophy (end) -->
+<h2>🐍 Contribution Snake</h2>
 
 <p align="center">
-  <img src="https://github.com/znmn/znmn/blob/main/contribution-snake.svg" alt="Snake"></center>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/znmn/znmn/main/assets/contribution-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/znmn/znmn/main/assets/contribution-snake-light.svg" />
+    <img src="https://raw.githubusercontent.com/znmn/znmn/main/assets/contribution-snake-dark.svg" alt="Contribution Snake" />
+  </picture>
 </p>
+
+<!--
+Live endpoint vs GitHub Actions:
+- Live endpoint renders on request and depends on the external service being up.
+- GitHub Actions generates SVG files in this repo on schedule/manual run, so README reads static files from raw.githubusercontent.com.
+-->
+<!--- profile assets (end) -->
