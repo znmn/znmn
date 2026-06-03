@@ -1,0 +1,61 @@
+name: Update profile assets
+
+on:
+  schedule:
+    - cron: "0 20 1 * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Generate trophy dark
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: ${{ github.repository_owner }}
+          output_path: trophy-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          theme: radical
+          max-rows: 1
+          margin-h: 15
+          margin-w: 5
+          title: -Issues
+
+      - name: Generate trophy light
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: ${{ github.repository_owner }}
+          output_path: trophy-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          theme: flat
+          max-rows: 1
+          margin-h: 15
+          margin-w: 5
+          title: -Issues
+
+      - name: Generate snake dark and light
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            contribution-snake-dark.svg?palette=github-dark
+            contribution-snake-light.svg?palette=github-light
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit generated SVGs
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add trophy-dark.svg trophy-light.svg contribution-snake-dark.svg contribution-snake-light.svg
+          git commit -m "chore: update profile assets" || exit 0
+          git push
