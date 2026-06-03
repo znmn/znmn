@@ -48,8 +48,6 @@ I'm **`Zainul Muhaimin`**, a passionate student majoring in Information Technolo
   </a>
 </p>
 
-<h2>🐍 Contribution Snake</h2>
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/znmn/znmn/main/assets/contribution-snake-dark.svg" />
@@ -57,10 +55,3 @@ I'm **`Zainul Muhaimin`**, a passionate student majoring in Information Technolo
     <img src="https://raw.githubusercontent.com/znmn/znmn/main/assets/contribution-snake-dark.svg" alt="Contribution Snake" />
   </picture>
 </p>
-
-<!--
-Live endpoint vs GitHub Actions:
-- Live endpoint renders on request and depends on the external service being up.
-- GitHub Actions generates SVG files in this repo on schedule/manual run, so README reads static files from raw.githubusercontent.com.
--->
-<!--- profile assets (end) -->
